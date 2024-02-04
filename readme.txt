@@ -3,8 +3,7 @@ Python  Pandas and SQlite3 :
 pandas tutorial : 
 https://www.w3schools.com/python/pandas/default.asp
 
-mariya sha github :
-MariyaSha
+
 
 add-total-row-to-pandas-dataframe
 
